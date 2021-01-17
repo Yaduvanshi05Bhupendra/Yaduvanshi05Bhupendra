@@ -3,25 +3,23 @@
 <h3 align="center">A VLSI and electronic enthusiastic from INDIA🇮🇳.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Yaduvanshi05Bhupendra" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=Yaduvanshi05Bhupendra" alt="Yaduvanshi05Bhupendra" />
 </p>
 
 ### About myself
 
-- 🔭&nbsp;&nbsp;I’m currently authoring [Next Right Now](https://github.com/UnlyEd/next-right-now)
+- 🔭&nbsp;&nbsp;I’m currently pursuing M.Tech. in **VLSI** from **Vellore Institute of Technology(VIT), Chennai**
 
-- 🌱&nbsp;&nbsp;I’m currently learning **tons of things about tons of stuff (grind grind grind)**
+- 🌱&nbsp;&nbsp;I’m currently working on projects based on FPGA and on Digital IC Design
 
-- 🤝&nbsp;&nbsp;I’m looking for help with **an OSS chatbot project I haven't had time to work on yet (contributors welcome, contact me!)**
+- 🤝&nbsp;&nbsp;I’m looking for help with 
 
-- 💬&nbsp;&nbsp;Ask me about **entrepreneurship, mentorship, programming, daily hacks, productivity, security**
+- 💬&nbsp;&nbsp;Ask me about 
 
-- 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** 
+- 📫&nbsp;&nbsp;How to reach me **Gmail/LinkedIn** 
 
-<!---
+
 ### Tech stack
-
-> [Check out the tech stack we used at Unly (2019)](https://stackshare.io/unly/2019)
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -44,31 +42,21 @@
 ### Github statistics
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadorequest&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vadorequest&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduvanshi05Bhupendra&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Yaduvanshi05Bhupendra" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaduvanshi05Bhupendra&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Yaduvanshi05Bhupendra" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vadorequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vYaduvanshi05Bhupendra)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Social
 
 > Want to get in touch?
-
-<p align="center">
-  <a href="https://dev.to/vadorequest" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vadorequest" height="30" width="30" />
+  
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/vadorequest" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vadorequest" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ambroise-dhenain" target="blank">
+  <a href="https://www.linkedin.com/in/yaduvanshi05bhupendra" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/2391795" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2391795" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@vadorequest" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vadorequest" height="30" width="30" />
+  
+  
   </a>
 </p>
 <!---
