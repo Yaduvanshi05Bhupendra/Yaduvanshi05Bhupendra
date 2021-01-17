@@ -22,7 +22,6 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
   <img src="https://www.meldium.com/wp-content/uploads/2018/11/FpgaServices.png" alt="FPGA" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tcl/tcl-ar21.svg" alt="tcl" width="40" height="40"/>
   <img src="https://blogs.sw.siemens.com/wp-content/uploads/sites/54/2020/07/SystemVerilog-.png" alt="system verilog" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
@@ -30,8 +29,6 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="panda" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> 
-  <img src="  https://pbs.twimg.com/profile_images/657317001791037440/4jbe9ugg_400x400.png" alt="Cadence" width="40" height="40"/>
-  <img src="  http://www.geb-enterprise-shop.com/image/cache/data/QuartusII-500x500.jpg" alt="Quartus Prime" width="40" height="40"/>
  
 </p>
 
@@ -41,8 +38,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduvanshi05Bhupendra&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Yaduvanshi05Bhupendra" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaduvanshi05Bhupendra&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Yaduvanshi05Bhupendra" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vYaduvanshi05Bhupendra)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ### Social
 
@@ -51,20 +46,8 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yaduvanshi05bhupendra" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
-  
-  
   </a>
 </p>
+<p align="left">
+     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/21-Gmail-256.png" alt="perl" width="40" height="40"/> - **GMAIL**
 
-### Top OSS projects
-
-> Curated list of my most important OSS contributions
-
-<a href="https://github.com/UnlyEd/next-right-now">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-right-now" />
-</a>
-<!---
-<a href="https://github.com/UnlyEd/next-typescript-api-zeit-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-typescript-api-zeit-boilerplate" />
-</a>
---->
