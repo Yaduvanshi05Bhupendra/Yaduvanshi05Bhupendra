@@ -45,7 +45,7 @@
   
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yaduvanshi05bhupendra" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="ambroise-dhenain" height="30" width="30" />
   </a>
 </p>
 <p>
