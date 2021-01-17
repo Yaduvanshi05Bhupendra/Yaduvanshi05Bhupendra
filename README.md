@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bhupendra Kumar Yadav</h1>
-<h3 align="center">A VLSI and electronic enthusiastic from INDIA🇮🇳.</h3>
+<h3 align="center">A VLSI and electronic enthusiastic from INDIA</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Yaduvanshi05Bhupendra" alt="Yaduvanshi05Bhupendra" />
@@ -12,9 +12,7 @@
 
 - 🌱&nbsp;&nbsp;I’m currently working on projects based on FPGA and on Digital IC Design
 
-- 🤝&nbsp;&nbsp;I’m looking for help with 
-
-- 💬&nbsp;&nbsp;Ask me about 
+- 🤝&nbsp;&nbsp;I’m open to work project related to drone technology
 
 - 📫&nbsp;&nbsp;How to reach me **Gmail/LinkedIn** 
 
@@ -33,7 +31,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
