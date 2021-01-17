@@ -21,13 +21,17 @@
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
+  <img src="https://www.meldium.com/wp-content/uploads/2018/11/FpgaServices.png" alt="FPGA" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tcl/tcl-ar21.svg" alt="tcl" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" alt="system verilog" width="40" height="40"/>
+  <img src="https://blogs.sw.siemens.com/wp-content/uploads/sites/54/2020/07/SystemVerilog-.png" alt="system verilog" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="panda" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> 
+  <img src="  https://pbs.twimg.com/profile_images/657317001791037440/4jbe9ugg_400x400.png" alt="Cadence" width="40" height="40"/>
+  <img src="  http://www.geb-enterprise-shop.com/image/cache/data/QuartusII-500x500.jpg" alt="Quartus Prime" width="40" height="40"/>
  
 </p>
 
@@ -51,7 +55,7 @@
   
   </a>
 </p>
-<!---
+
 ### Top OSS projects
 
 > Curated list of my most important OSS contributions
@@ -59,7 +63,7 @@
 <a href="https://github.com/UnlyEd/next-right-now">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-right-now" />
 </a>
-
+<!---
 <a href="https://github.com/UnlyEd/next-typescript-api-zeit-boilerplate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-typescript-api-zeit-boilerplate" />
 </a>
