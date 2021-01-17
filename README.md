@@ -1,4 +1,4 @@
-<!---
+
 <h1 align="center">Hi 👋, I'm Bhupendra Kumar Yadav</h1>
 <h3 align="center">A VLSI and electronic enthusiastic from INDIA🇮🇳.</h3>
 
@@ -16,10 +16,9 @@
 
 - 💬&nbsp;&nbsp;Ask me about **entrepreneurship, mentorship, programming, daily hacks, productivity, security**
 
-- 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** or open a Github issue [here](https://github.com/Vadorequest/Vadorequest/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+- 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** 
 
-> I also happen to be a CTO and co-founder of [Unly](https://unly.org/), a tech company meant to help access higher education for students.
-
+<!---
 ### Tech stack
 
 > [Check out the tech stack we used at Unly (2019)](https://stackshare.io/unly/2019)
