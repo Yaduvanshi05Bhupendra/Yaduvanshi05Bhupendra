@@ -20,8 +20,8 @@
 ### Tech stack
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
   <img src="https://www.meldium.com/wp-content/uploads/2018/11/FpgaServices.png" alt="FPGA" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tcl/tcl-ar21.svg" alt="tcl" width="40" height="40"/>
   <img src="https://blogs.sw.siemens.com/wp-content/uploads/sites/54/2020/07/SystemVerilog-.png" alt="system verilog" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
@@ -48,6 +48,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
   </a>
 </p>
-<p align="left">
-     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/21-Gmail-256.png" alt="perl" width="40" height="40"/> - **GMAIL**
-
+<p>
+     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/21-Gmail-256.png" alt="perl" width="40" height="40"/> Yaduvanshi05Bhupendra@gmail.com
+</p>
