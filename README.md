@@ -52,7 +52,4 @@
     <img align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/21-Gmail-256.png" alt="Gmail" height="30" width="30" />
   </a>
   
-</p>
-<p>
-     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/21-Gmail-256.png" alt="Gmail" width="40" height="40"/> Yaduvanshi05Bhupendra@gmail.com
-</p>
+
