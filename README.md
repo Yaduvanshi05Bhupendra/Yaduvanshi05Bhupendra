@@ -44,10 +44,15 @@
 > Want to get in touch?
   
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yaduvanshi05bhupendra" target="blank">
-    <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="ambroise-dhenain" height="30" width="30" />
+  <a href="mailto:Yaduvanshi05Bhupendra@gmail.com" target="blank">
+    <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30" />
   </a>
+    </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yaduvanshi05bhupendra" target="blank">
+    <img align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/21-Gmail-256.png" alt="Gmail" height="30" width="30" />
+  </a>
+  
 </p>
 <p>
-     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/21-Gmail-256.png" alt="perl" width="40" height="40"/> Yaduvanshi05Bhupendra@gmail.com
+     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/21-Gmail-256.png" alt="Gmail" width="40" height="40"/> Yaduvanshi05Bhupendra@gmail.com
 </p>
