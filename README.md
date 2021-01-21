@@ -14,7 +14,7 @@
 
 - 🤝&nbsp;&nbsp;I’m open to work project related FPGA
 
-- 🤝&nbsp;&nbsp;I have special intersest toward drone technology. I will be to happy to work upon this
+- 🤝&nbsp;&nbsp;I have special intersest toward **drone technology.** I will be to happy to work upon this.
 
 - 📫&nbsp;&nbsp;How to reach me **Gmail/LinkedIn** 
 
@@ -40,6 +40,19 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduvanshi05Bhupendra&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Yaduvanshi05Bhupendra" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaduvanshi05Bhupendra&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Yaduvanshi05Bhupendra" />
 </p>
 
+
+### Work
+I you want to know more about my work, you can visit my repository :smiley:
+* [Verilog](https://github.com/Yaduvanshi05Bhupendra/Verilog)
+* [VHDL](https://github.com/Yaduvanshi05Bhupendra/VHDL)
+* [System Verilog](https://github.com/Yaduvanshi05Bhupendra/System Verilog)
+* [Per](https://github.com/Yaduvanshi05Bhupendra/Perl)
+* [TCL/TK](https://github.com/Yaduvanshi05Bhupendra/TCL-TK)
+* [Python](https://github.com/Yaduvanshi05Bhupendra/Python)
+* [Linux](https://github.com/Yaduvanshi05Bhupendra/Linux)
+* [Data Science](https://github.com/Yaduvanshi05Bhupendra/Data-Science)
+* [Matlab](https://github.com/Yaduvanshi05Bhupendra/Matlab)
+* [AVR](https://github.com/Yaduvanshi05Bhupendra/AVR)
 
 ### Social
 
