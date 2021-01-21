@@ -12,7 +12,9 @@
 
 - 🌱&nbsp;&nbsp;I’m currently working on projects based on FPGA and on Digital IC Design
 
-- 🤝&nbsp;&nbsp;I’m open to work project related to drone technology
+- 🤝&nbsp;&nbsp;I’m open to work project related FPGA
+
+- 🤝&nbsp;&nbsp;I have special intersest toward drone technology. I will be to happy to work upon this
 
 - 📫&nbsp;&nbsp;How to reach me **Gmail/LinkedIn** 
 
