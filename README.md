@@ -47,7 +47,7 @@ If you want to know more about my work, you can visit my repository :smiley:
 * [Verilog](https://github.com/Yaduvanshi05Bhupendra/Verilog)
 * [VHDL](https://github.com/Yaduvanshi05Bhupendra/VHDL)
 * [System_Verilog](https://github.com/Yaduvanshi05Bhupendra/System_Verilog)
-* [Per](https://github.com/Yaduvanshi05Bhupendra/Perl)
+* [Perl](https://github.com/Yaduvanshi05Bhupendra/Perl)
 * [TCL/TK](https://github.com/Yaduvanshi05Bhupendra/TCL-TK)
 * [Python](https://github.com/Yaduvanshi05Bhupendra/Python)
 * [Linux](https://github.com/Yaduvanshi05Bhupendra/Linux)
