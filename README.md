@@ -42,10 +42,11 @@
 
 
 ### Work
-I you want to know more about my work, you can visit my repository :smiley:
+
+If you want to know more about my work, you can visit my repository :smiley:
 * [Verilog](https://github.com/Yaduvanshi05Bhupendra/Verilog)
 * [VHDL](https://github.com/Yaduvanshi05Bhupendra/VHDL)
-* [System Verilog](https://github.com/Yaduvanshi05Bhupendra/System Verilog)
+* [System_Verilog](https://github.com/Yaduvanshi05Bhupendra/System_Verilog)
 * [Per](https://github.com/Yaduvanshi05Bhupendra/Perl)
 * [TCL/TK](https://github.com/Yaduvanshi05Bhupendra/TCL-TK)
 * [Python](https://github.com/Yaduvanshi05Bhupendra/Python)
